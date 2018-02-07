@@ -1,6 +1,6 @@
-/*Auhtor:Callam Leakey 
+/*Auhtor:Aron O'Neill
    Date:4/11/2017
-   Programming assignment 1 */
+   Programming assignment 1 - QUIZ */
 
 
 #include <stdio.h>
